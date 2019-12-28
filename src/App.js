@@ -6,7 +6,7 @@ export default class App extends Component {
             <>
                 <div className="App">
                     <header className="App-header">
-                        <h1 className="App-title">Welcome to my web store</h1>
+                        <h1 className="App-title">First git commit</h1>
                     </header>
                 </div>
             </>
